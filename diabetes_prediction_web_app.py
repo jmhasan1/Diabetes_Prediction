@@ -6,7 +6,6 @@ Created on Wed Aug 23 22:29:46 2023
 """
 
 import numpy as np
-import sklearn
 import pickle
 import streamlit as st
 
