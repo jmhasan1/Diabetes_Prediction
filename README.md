@@ -1,14 +1,38 @@
-<h1>Diabetes_Prediction</h1> 
-<p>This model uses machine learning to predict whether a person has diabetes based on specific features (like age, glucose levels, etc.). The model is typically trained on a dataset containing these features and the corresponding labels (whether the person has diabetes or not).</p>
-<h3></h3>
-<p>
+# Diabetes Prediction Web Application
 
-<h3>The general process involves:</h3>
+![[Diabetes Prediction](https://via.placeholder.com/150)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Fiammustafatz%2Fdiabetes-prediction-dataset&psig=AOvVaw0Q_Oy-XAcHfjNc9I2K1bkY&ust=1724255049801000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDQxNv0g4gDFQAAAAAdAAAAABAE) <!-- Replace with actual image link -->
 
-Data Input: User provides health data through the web app.<br>
-Preprocessing: The input data is preprocessed (scaled/normalized) to match the format expected by the model.<br>
-Model Prediction: The trained model processes the input data and generates a prediction (e.g., "Diabetic" or "Non-Diabetic").<br>
-Output: The prediction is displayed back to the user via the web interface.<br>
+## Overview
 
-  
-</p>
+This project is a web application designed to predict the likelihood of diabetes in individuals based on various health parameters. The application leverages a machine learning model trained on a dataset of health metrics, enabling users to input their data and receive predictions about their diabetic status.
+
+## Features
+
+- **User-Friendly Interface**: A simple and intuitive interface for users to input their health data and receive instant predictions.
+- **Machine Learning Model**: The prediction engine is powered by a well-trained machine learning model that has been optimized for accuracy.
+- **Real-Time Prediction**: Users can get real-time results and insights based on their inputs.
+
+## How It Works
+
+1. **Input Data**: The user inputs relevant health data, such as glucose levels, BMI, age, and more.
+2. **Model Prediction**: The input data is processed through a trained machine learning model that predicts the likelihood of diabetes.
+3. **Output**: The application displays the prediction, indicating whether the user is likely to be diabetic or not.
+
+<!--![Workflow Diagram](https://via.placeholder.com/300x150) <!-- Replace with an actual image link -->
+
+## Installation and Setup
+
+Follow these steps to set up the project locally:
+
+### Prerequisites
+
+- Python 3.x
+- Pip (Python package manager)
+- Virtualenv (optional, but recommended)
+
+### Installation
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/jmhasan1/Diabetes_Prediction.git
+   cd Diabetes_Prediction
