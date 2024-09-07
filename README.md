@@ -3,10 +3,6 @@
 <img src="diabetes.jpg" alt="Flowers in Chania" width="460" height="345">
 <a href="https://jmhasan1.github.io/Jahid_Portfolio/" target="_blank">Diabetes Prediction Web APP</a>    
 
-with 
-
-<a href="#" onclick='window.open("https://jmhasan1.github.io/Jahid_Portfolio/");return false;'>Diabetes Prediction Web APP</a>
-
 ## Overview
 
 This project is a web application designed to predict the likelihood of diabetes in individuals based on various health parameters. The application leverages a machine learning model trained on a dataset of health metrics, enabling users to input their data and receive predictions about their diabetic status.
