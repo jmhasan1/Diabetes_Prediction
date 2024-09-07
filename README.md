@@ -1,6 +1,6 @@
 # Diabetes Prediction Web Application
 
-![[Diabetes Prediction](https://via.placeholder.com/150)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Fiammustafatz%2Fdiabetes-prediction-dataset&psig=AOvVaw0Q_Oy-XAcHfjNc9I2K1bkY&ust=1724255049801000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDQxNv0g4gDFQAAAAAdAAAAABAE) <!-- Replace with actual image link -->
+<img src = "diabetes.jpg"  alt="Diabetes Prediction>
 
 ## Overview
 
