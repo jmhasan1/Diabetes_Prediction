@@ -1,6 +1,8 @@
 # Diabetes Prediction Web Application
 
 <img src="diabetes.jpg" alt="Flowers in Chania" width="460" height="345">
+<a href="https://diabetesprediction-app.streamlit.app/" target="_blank">Diabetes Prediction Web APP</a>
+
 
 ## Overview
 
