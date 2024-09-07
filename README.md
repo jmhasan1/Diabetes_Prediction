@@ -1,6 +1,6 @@
 # Diabetes Prediction Web Application
 
-<img src = "diabetes.jpg"  alt="Diabetes Prediction>
+<img src="diabetes.jpg" alt="Flowers in Chania" width="460" height="345">
 
 ## Overview
 
