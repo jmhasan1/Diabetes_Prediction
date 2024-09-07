@@ -1,8 +1,11 @@
 # Diabetes Prediction Web Application
 
 <img src="diabetes.jpg" alt="Flowers in Chania" width="460" height="345">
-<a href="https://diabetesprediction-app.streamlit.app/" target="_blank">Diabetes Prediction Web APP</a>
+<a href="https://jmhasan1.github.io/Jahid_Portfolio/" target="_blank">Diabetes Prediction Web APP</a>    
 
+with 
+
+<a href="#" onclick='window.open("https://jmhasan1.github.io/Jahid_Portfolio/");return false;'>Diabetes Prediction Web APP</a>
 
 ## Overview
 
